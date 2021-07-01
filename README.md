@@ -2,4 +2,4 @@
 
 * **For API Test**
 
-![SampleAPI](sampleAPI.png "SampleAPI")
+![SampleAPI](sampleAPI.jpg "SampleAPI")
