@@ -1,5 +1,5 @@
 # SampleAPI
 
-**** For API Test ***
+*** For API Test ***
 
 ![SampleAPI](sampleAPI.png "SampleAPI")
