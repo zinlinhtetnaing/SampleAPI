@@ -1,0 +1,35 @@
+{
+    "code": "001",
+    "message": "Success",
+    "userInfo": {
+        "firstName": "OX",
+        "lastName": "Ygen",
+        "gender": "male",
+        "age": 25,
+        "address": {
+            "streetAddress": "OX Street",
+            "city": "Space",
+            "postalCode": "010101"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "01777777777"
+            },
+            {
+                "type": "work",
+                "number": "01888888888"
+            }
+        ],
+        "mails": [
+            {
+                "type": "work",
+                "email": "dev.oxygen@gmail.com"
+            },
+            {
+                "type": "personal",
+                "number": "oxygen@gmail.com"
+            }
+        ]
+    }
+}
